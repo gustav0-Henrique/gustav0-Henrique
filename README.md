@@ -15,7 +15,7 @@
   <img align="center" alt="Python" height="50" width="50" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
   <img align="center" alt="SQL Server" height="50" width="50" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png">
   <img align="center" alt="Node" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">
-  <img align="right" alt="pic" style="border-radius:50px;" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" height="150">
+  <img align="right" alt="pic" style="border-radius:50px;" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif" height="150">
   
 </div>
   
