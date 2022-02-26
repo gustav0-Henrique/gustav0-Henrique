@@ -32,6 +32,6 @@
   <a href="https://www.linkedin.com/in/gustavohenrique10/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
-![Snake animation](https://github.com/gustav0-Henrique/gustav0-Henrique/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gustav0-Henrique/github-contribution-grid-snake.svg)
  
 </div>
