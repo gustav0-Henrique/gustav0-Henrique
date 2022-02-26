@@ -1,9 +1,12 @@
 ## Olá eu sou o Gustavo, estudante de programação e tecnologia!
 
-<div align="center">
-  <a href="https://github.com/gustav0-Henrique">
-   <img src="https://github-readme-stats.vercel.app/api?username=gustav0-Henrique&show_icons=true&theme=dark"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustav0-Henrique&layout=compactlayout"/>
+
+<a href="https://github.com/gustav0-Henrique/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustav0-Henrique&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustav0-Henrique&repo=convoychat" />
+</a>
  
  
 </div>
