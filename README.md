@@ -15,7 +15,8 @@
   <img align="center" alt="Python" height="50" width="50" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
   <img align="center" alt="SQL Server" height="50" width="50" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png">
   <img align="center" alt="Node" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">
-   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" 
   
 </div>
   
