@@ -1,4 +1,5 @@
-## Olá eu sou o Gustavo, estudante de programação e tecnologia!
+# Olá! sou Gustavo
+🧑‍💻 Atualmente cursando Bootcamp Inter Frontend Developer
 
 <div align="center">
   <a href="https://github.com/gustav0-Henrique">
@@ -19,7 +20,7 @@
   
 </div>
   
-  ##
+ 
  
 <div> 
 
