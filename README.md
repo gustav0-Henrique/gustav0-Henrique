@@ -1,13 +1,19 @@
 ## Olá eu sou o Gustavo, estudante de programação e tecnologia!
-
-
-<a href="https://github.com/gustav0-Henrique/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustav0-Henrique&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustav0-Henrique&repo=convoychat" />
-</a>
  
+<div align="center">
+  <a href="https://github.com/gustav0-Henrique">
+  <imgalign="center"height="180em"src="https://githubreadmestats.vercel.app/apiusername=gustav0Henrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustav0-Henrique&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+
+
+
+
+
+
+
  
 </div>
 <div style="display: inline_block"><br>
