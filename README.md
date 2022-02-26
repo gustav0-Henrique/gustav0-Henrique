@@ -14,11 +14,14 @@
   <img align="center" alt="CSS" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
   <img align="center" alt="Python" height="50" width="50" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
   <img align="center" alt="SQL Server" height="50" width="50" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png">
-   <img align="center" alt="Node" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">
+  <img align="center" alt="Node" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
   
- <div></div>
- ##
-  
+  ##
+ 
+<div> 
+
 <div> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
