@@ -8,7 +8,7 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
   
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
