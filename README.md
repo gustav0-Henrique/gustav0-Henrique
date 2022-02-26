@@ -15,7 +15,7 @@
   <img align="center" alt="Python" height="50" width="50" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
   <img align="center" alt="SQL Server" height="50" width="50" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png">
   <img align="center" alt="Node" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">
-   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="file:///C:/Users/rsilva85/Downloads/bJk.gif">
+   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://files.pumble.com/621a5b85591ea26e4790fdad/621a5b85591ea26e4790fdae/621a5b94591ea26e4790fe40/621a5b94591ea26e4790fe3f/3MiI7hbD-bJk.gif">
   
 </div>
   
