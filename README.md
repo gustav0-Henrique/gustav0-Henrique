@@ -15,9 +15,8 @@
   <img align="center" alt="Python" height="50" width="50" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
   <img align="center" alt="SQL Server" height="50" width="50" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png">
   <img align="center" alt="Node" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">
-   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/1kc1.gif">
+   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="file:///C:/Users/rsilva85/Downloads/bJk.gif">
   
-<div style="padding-top:56.200%;position:relative;"><iframe src="https://gifer.com/embed/bJk" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 </div>
   
   ##
