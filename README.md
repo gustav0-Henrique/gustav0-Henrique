@@ -1,5 +1,5 @@
-# Olá! sou Gustavo
-🧑‍💻 Atualmente cursando Bootcamp Inter Frontend Developer
+# Olá! eu sou o Gustavo! 
+🧑‍💻 Cursando Bootcamp Inter Frontend Developer
 
 <div align="center">
   <a href="https://github.com/gustav0-Henrique">
